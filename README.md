@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 📫 How to reach me
 
 - **Email:** vince.olemberio2004@gmail.com
-- **Facebook:** [Lord Binns](https://www.linkedin.com/in/lord-binns/)
+- **Facebook:** [[Vince Olemberio](https://web.facebook.com/vince.olemberio?_rdc=1&_rdr)
 - **insta:** [[@hi_its_vince](https://www.threads.net/@hi_its_vince04))
 
 ## 💬 Let's Connect
