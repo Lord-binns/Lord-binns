@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Lord-binns/Lord-binns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Lord-binns
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build interesting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📫 How to reach me
+
+- **Email:** vince.olemberio2004@gmail.com
+- **Facebook:** [Lord Binns](https://www.linkedin.com/in/lord-binns/)
+- **insta:** [[@hi_its_vince](https://www.threads.net/@hi_its_vince04))
+
+## 💬 Let's Connect
+
+I'm always open to collaborating on interesting projects and discussing innovative ideas. Feel free to reach out to me!
+
+## 📈 GitHub Stats
+
+![Lord-binns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-binns&show_icons=true&theme=dark)
+
+
+
+Thank you for visiting my profile! Have a great day! 😊
+````# read.me
